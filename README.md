@@ -3,7 +3,9 @@
 > Automate - Bahasa Indonesia
 
 [[![github release version](https://img.shields.io/github/v/release/nhn/tui.editor.svg?include_prereleases)](https://github.com/YugoSamakuhaku/Automate-Bahasa-Indonesia/releases/tag/v1.0.0)](https://img.shields.io/github/v/release/YugoSamakuhaku/Automate-Bahasa-Indonesia?label=Release&logo=Release%20&style=plastic)
-![GitHub](https://img.shields.io/github/license/YugoSamakuhaku/Automate-Bahasa-Indonesia?label=license&style=plastic)
+
+[GitHub](https://img.shields.io/github/license/YugoSamakuhaku/Automate-Bahasa-Indonesia?label=license&style=plastic)
+
 [https://img.shields.io/github/license/YugoSamakuhaku/Automate-Bahasa-Indonesia?style=plastic](https://img.shields.io/github/downloads/YugoSamakuhaku/Automate-Bahasa-Indonesia/total?label=downloads)
 <img src="https://user-images.githubusercontent.com/37766175/121809054-446bac80-cc96-11eb-9139-08c6d9ad2d88.png" />
 
