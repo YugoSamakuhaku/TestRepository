@@ -37,6 +37,6 @@ Ya tentu saja, karena saya terinspirasi dengan pencipta [`(CP) Indonesian Langua
 * Pihak-pihak lain yang bersangkutan dan tidak bisa saya sebutkan satu per satu 🥳.
 
 ## 🧐Kebijakan Saya
-**Mungkin ada beberapa pengembang yang ingin menambahkan terjemahan mod ini kedalam Mod mereka, saya dengan senang hati membuka mod ini kepada siapapun yang membutuhkan, diharapkan mencantumkan sumber resmi terjemahan mod ini, yang bertujuan untuk menghargai pihak pengembang. **
+**Mungkin ada beberapa pengembang yang ingin menambahkan terjemahan mod ini kedalam Mod mereka, saya dengan senang hati membuka mod ini kepada siapapun yang membutuhkan, diharapkan mencantumkan sumber resmi terjemahan mod ini, yang bertujuan untuk menghargai pihak pengembang.**
 
 **Jika terdapat komplain atau keluhan mengenai mod yang saya buat, silahkan email saya ataupun berikan komentar ke dalam mod yang bersangkutan, mari kita selesaikan dengan cara berdiskusi dan mempertimbangkan langkah kedepannya**
